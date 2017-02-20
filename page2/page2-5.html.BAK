@@ -244,19 +244,6 @@ body {background-image:url("fon.jpg"); background-repeat: ; background-position:
 
 
 
-<p class="style1"><strong>Hinweis(Рекомендую) - Select video quality to 720p HD </strong>: Film - Video Clips - Rotenberg (Stuttgart).</p>     
-     <iframe width="1280" height="720" src="https://www.youtube.com/embed/hYeY4JQeE78" frameborder="0" allowfullscreen></iframe>
- <p><img src="lineal4.jpg" alt="lineal"></p>
-
-<p class="style1"><strong>Hinweis(Рекомендую) - Select video quality to 720p HD </strong>: Film - Video Clips - Nebel bei Germering Bayern.</p>     
-     <iframe width="1280" height="720" src="https://www.youtube.com/embed/WCYzxkAk5qw" frameborder="0" allowfullscreen></iframe>
- <p><img src="lineal4.jpg" alt="lineal"></p>
- 
- <p class="style1"><strong>Hinweis(Рекомендую) - Select video quality to 720p HD </strong>: Film - Video Clips - Nebel bei Germering (Winter) Bayern.</p>     
-     <iframe width="1280" height="720" src="https://www.youtube.com/embed/pfM-HuH4pIM" frameborder="0" allowfullscreen></iframe>
- <p><img src="lineal4.jpg" alt="lineal"></p>
-
-
 
 
 
@@ -267,10 +254,20 @@ body {background-image:url("fon.jpg"); background-repeat: ; background-position:
 <p class="style1"><img src="4.gif" /> </p>
 
 
+<!-- рисунки -->
+<img src="video.jpg" width="640" height="358" alt=""/><br>
+<img src="video-3-w.jpg" width="640" height="358" alt=""/><br>
+<img src="video-4.jpg" width="640" height="358" alt=""/><br>
+<img src="video-5.jpg" width="640" height="358" alt=""/><br>
+<img src="video-6.jpg" width="640" height="358" alt=""/><br>
+<img src="video2.jpg" width="640" height="480" alt=""/><br><br>
+
+<!-- рисунки  -->
 
 <h3>При наведении курсора нижерасположенные картинки увеличиваются в размерах (+время на загрузку картинки!)</h3>
 <p class="style1">Иннсбрук, Тироль - Австрия,  Альпы - Германия, Бавария</p> 
 
+<!-- https://webref.ru/html/attr/onmouseover#field_html_example  -->
 <p>
 <img src="it1-s.jpg" alt=""
    onmouseout="this.src='it1-s.jpg'"
@@ -288,13 +285,6 @@ body {background-image:url("fon.jpg"); background-repeat: ; background-position:
    onmouseout="this.src='A3-s.jpg'"
    onmouseover="this.src='A3-L.jpg'">
 </p>
-
-<p>
-<img src="A4-s.jpg" alt=""
-   onmouseout="this.src='A4-s.jpg'"
-   onmouseover="this.src='A4-L.jpg'">
-</p>
-
 
 <!-- https://webref.ru/html/attr/onmouseover#field_html_example  -->
 
